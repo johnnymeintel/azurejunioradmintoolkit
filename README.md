@@ -1,7 +1,5 @@
 # Junior Azure Administrator Toolkit
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/junior-azure-admin-toolkit.svg)](https://github.com/yourusername/junior-azure-admin-toolkit/stargazers)
-[![GitHub license](https://img.shields.io/github/license/yourusername/junior-azure-admin-toolkit.svg)](https://github.com/yourusername/junior-azure-admin-toolkit/blob/main/LICENSE)
 [![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue.svg)](https://github.com/PowerShell/PowerShell)
 
 A collection of beginner-friendly PowerShell scripts for those starting their journey into Azure administration. Created to accompany your AZ-104 certification preparation, this toolkit provides practical, well-commented scripts that demonstrate core Azure administrative tasks.
