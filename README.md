@@ -55,7 +55,7 @@ The Junior Azure Administrator Toolkit aims to:
 
 ### Installation
 ```
-git clone https://github.com/yourusername/junior-azure-admin-toolkit.git
+git clone https://github.com/johnnymeintel/junior-azure-admin-toolkit.git
 cd junior-azure-admin-toolkit
 ```
 
